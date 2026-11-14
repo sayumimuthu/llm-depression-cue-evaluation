@@ -54,8 +54,6 @@ The work emphasizes responsible interpretation: useful conversational behavior s
 This repository currently serves as a high-level overview of the project. To preserve research integrity and the confidentiality of ongoing work, it does **not** contain unpublished patient-simulation materials, conversation transcripts, agent implementations, assessment rubrics, scores, or results.
 
 
-For additional information, see [Project Status](docs/PROJECT_STATUS.md) and [Research Ethics & Scope](docs/RESEARCH_ETHICS.md).
-
 ## Research areas
 
 `Natural Language Processing` · `Large Language Model Evaluation` · `Mental Health AI` · `Human–AI Interaction` · `Responsible AI`
